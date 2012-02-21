@@ -8,5 +8,9 @@
       "url": "https://github.com/nicoreed"
     }
   ],
-  "difficulty": 1
+  "difficulty": 3,
+  "categories": [
+    ["JavaScript"],
+    ["Asynchronous Programming"]
+  ]
 }
